@@ -1,0 +1,139 @@
+
+/*div {
+    background-color: #F3F1F5;
+}*/
+body { 
+    font-family: 'Merriweather', serif;
+    margin: 0px;
+    text-align: center;
+}
+
+h1 {
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+hr {
+    border-style: none;
+    border-top: 5px dotted #cdd1d1;
+    height: 2px;
+    width: 4%;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle-container {
+    
+}
+
+.bottom-container {
+    padding-top:20px;
+    background-color: #66BFBF;
+}
+
+.direct {
+    text-decoration: underline;
+}
+
+a {
+    color: #11999E;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position:absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.kaninie {
+    border-radius: 100%;
+    width: 20%;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+
+.microscope {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.coding {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.btn {
+    background: #11999E;
+    background-image: -webkit-linear-gradient(top, #11999E, #11999E);
+    background-image: -moz-linear-gradient(top, #11999E, #11999E);
+    background-image: -ms-linear-gradient(top, #11999E, #11999E);
+    background-image: -o-linear-gradient(top, #11999E, #11999E);
+    background-image: linear-gradient(to bottom, #11999E, #11999E);
+    -webkit-border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #11999E 2px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #1a686b;
+    text-decoration: none;
+  }
+
+  .footer-link {
+      margin-top: 200px;
+  }
+
+  .profile {
+      padding-bottom: 60px;
+  }
+  
+  .skills {
+      padding-top: 50px;
+
+  }
+
+  .contact-me {
+      margin: 50px;
+  }
+
+  .copyright {
+      color: #EAF6F6;
+  }
